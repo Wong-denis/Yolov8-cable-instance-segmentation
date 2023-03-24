@@ -1,0 +1,6 @@
+train: custom_dataset/cable_1123_v1/train/images
+val: custom_dataset/cable_1123_v1/valid/images
+test: custom_dataset/cable_1123_v1/test/images
+
+nc: 1
+names: ['wire']

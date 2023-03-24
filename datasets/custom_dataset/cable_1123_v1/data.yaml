@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['wire']
+
+roboflow:
+  workspace: yuanshung
+  project: cable_1123
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yuanshung/cable_1123/dataset/3
